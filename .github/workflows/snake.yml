@@ -14,12 +14,10 @@ jobs:
         with:
           github_user_name: Guo-4869
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+            outputs/github-snake.svg
+            outputs/github-snake-dark.svg?palette=github-dark
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-          force: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./outputs
+          publish_branch: output
