@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+make+something+great+and+useful)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+make+a+difference+to+the+world)](https://git.io/typing-svg)
 
 <div>&nbsp;</div>
 
