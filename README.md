@@ -50,3 +50,8 @@
   <img src="https://streak-stats.demolab.com/?user=Guo-4869&theme=dark&hide_border=true" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guo-4869/Guo-4869/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guo-4869/Guo-4869/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Guo-4869/Guo-4869/output/github-snake-dark.svg" />
+</picture>
