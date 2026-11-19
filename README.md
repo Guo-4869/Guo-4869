@@ -42,6 +42,10 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guo-4869&layout=compact&theme=dark&hide_border=true" />
 </picture>
 
+### 🗂️ Recommended project
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guo-4869&repo=AquaVeg&theme=dark&hide_border=true)](https://github.com/Guo-4869/AquaVeg)<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guo-4869&repo=EZIP&theme=dark&hide_border=true)](https://github.com/Guo-4869/EZIP)<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guo-4869&repo=Traffic&theme=dark&hide_border=true)](https://github.com/Guo-4869/Traffic)<br>
 ### 📊 GitHub Stats
 
 <picture>
@@ -49,7 +53,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Guo-4869&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Guo-4869&theme=dark&hide_border=true" />
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guo-4869/Guo-4869/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guo-4869/Guo-4869/output/github-snake.svg" />
